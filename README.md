@@ -1,2 +1,3 @@
 # hello
-A hello world
+A hello world program
+Author: Ron Alexander
